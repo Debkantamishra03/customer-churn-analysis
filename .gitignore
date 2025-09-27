@@ -1,1 +1,12 @@
+# Python cache
+__pycache__/
+*.pyc
 
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Kaggle API key
+kaggle.json
+
+# Large files / zip
+*.zip
