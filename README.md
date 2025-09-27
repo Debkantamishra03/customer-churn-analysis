@@ -39,9 +39,32 @@ Downloaded using Kaggle API.
 
 ##  Installation & Usage
 
-Clone the repository:
+- Clone the repository:
 
 ```bash
 git clone https://github.com/yourusername/customer-churn-analysis.git
 cd customer-churn-analysis
 
+- Install dependencies:
+pip install -r requirements.txt
+
+- Run the Jupyter notebook:
+jupyter notebook customer_churn_analysis.ipynb
+
+---
+
+**##  Requirements**
+
+- numpy
+- pandas
+- matplotlib
+- openpyxl
+
+---
+
+**## 👨‍💻 Author**
+
+- Debkanta Mishra
+- Email: 
+- LinkedIn: https://linkedin.com/in/your-profile
+- GitHub: https://github.com/yourusername
