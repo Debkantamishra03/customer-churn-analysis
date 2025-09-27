@@ -43,14 +43,13 @@ Downloaded using Kaggle API.
 
 ```bash
 git clone https://github.com/yourusername/customer-churn-analysis.git
-cd customer-churn-analysis
+cd customer-churn-analysis ```
 
 - Install dependencies:
 pip install -r requirements.txt
 
 - Run the Jupyter notebook:
 jupyter notebook customer_churn_analysis.ipynb
-
 ---
 
 **##  Requirements**
@@ -62,7 +61,7 @@ jupyter notebook customer_churn_analysis.ipynb
 
 ---
 
-**## 👨‍💻 Author**
+**##  Author**
 
 - Debkanta Mishra
 - Email: 
