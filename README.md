@@ -63,5 +63,7 @@ Downloaded using Kaggle API.
 
 - Debkanta Mishra
 - Email: debkanta.mishra3@gmail.com
-- LinkedIn: https://linkedin.com/in/your-profile
-- GitHub: https://github.com/yourusername
+- LinkedIn: www.linkedin.com/in/debkanta-mishra
+- GitHub: https://github.com/Debkantamishra03
+
+---
