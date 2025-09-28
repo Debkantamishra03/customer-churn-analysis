@@ -40,7 +40,7 @@ Downloaded using Kaggle API.
 ##  Installation & Usage
 
   ### Clone the repository:
-    git clone https://github.com/yourusername/customer-churn-analysis.git
+    git clone https://github.com/Debkantamishra03/customer-churn-analysis.git
     cd customer-churn-analysis 
 
   ### Install dependencies:
@@ -62,6 +62,6 @@ Downloaded using Kaggle API.
 ##  Author
 
 - Debkanta Mishra
-- Email: 
+- Email: debkanta.mishra3@gmail.com
 - LinkedIn: https://linkedin.com/in/your-profile
 - GitHub: https://github.com/yourusername
